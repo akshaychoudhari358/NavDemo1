@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.akshay.navdemo1.ui.main.MainFragment;
-
+//dsnfkfnqlql
 public class SecondFragment extends Fragment {
 
     public SecondFragment() {
